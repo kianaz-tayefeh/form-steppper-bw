@@ -16,8 +16,10 @@ In the project directory, you can run:
 - `react-hook-form`
 - `zod`
 - `react-select`
+- `tailwind css`
 
 ## Code style:
 
-Configured prettier and eslint and huskey
+Configured prettier, eslint and huskey
+
 
